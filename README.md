@@ -12,21 +12,6 @@
 - 🎓 graduated from UTFSM and now working as a developer
 - 💻 building little personal projects in my free time
 - ✨ in love with making pretty things on the web
-- 🍓 currently playing around with **React**, **Next.js**, **NestJS** and **MongoDB**
-
-### 🩷 stuff i use
-
-<p>
-  <img src="https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=8B3A62" />
-  <img src="https://img.shields.io/badge/Next.js-FFC0CB?style=for-the-badge&logo=nextdotjs&logoColor=8B3A62" />
-  <img src="https://img.shields.io/badge/NestJS-FFC0CB?style=for-the-badge&logo=nestjs&logoColor=8B3A62" />
-  <img src="https://img.shields.io/badge/MongoDB-FFC0CB?style=for-the-badge&logo=mongodb&logoColor=8B3A62" />
-  <img src="https://img.shields.io/badge/Astro-FFC0CB?style=for-the-badge&logo=astro&logoColor=8B3A62" />
-  <img src="https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=8B3A62" />
-  <img src="https://img.shields.io/badge/HTML-FFC0CB?style=for-the-badge&logo=html5&logoColor=8B3A62" />
-  <img src="https://img.shields.io/badge/CSS-FFC0CB?style=for-the-badge&logo=css&logoColor=8B3A62" />
-  <img src="https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git&logoColor=8B3A62" />
-</p>
 
 ### 🌸 my little corner
 
